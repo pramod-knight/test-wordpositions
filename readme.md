@@ -1,5 +1,16 @@
-Git clone 
 
-cd move to folder
-run npm i
-run npm test
+# Find words positions
+
+
+
+## Installation
+
+Install my-project with npm
+
+```bash
+  npm install my-project
+  cd my-project
+```
+```bash
+  npm test
+```
